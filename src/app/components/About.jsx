@@ -40,7 +40,7 @@ const About = () => {
 
             <p>
               I graduated from Camellia Institute of Technology & Management, in
-              2023 in Civil Engineering and have been working in the field ever
+              2023 in Civil Engineering, and later at the end of the year 2023 I learned Web Development and have been working in the field ever
               since.
             </p>
             <br />
