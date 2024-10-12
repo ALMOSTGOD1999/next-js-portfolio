@@ -83,7 +83,7 @@ const About = () => {
               width={350}
               src="/pr.jpg"
               alt="image"
-              className="hidden md:block md:relative md:bottom-4 md:left-32 md:z-0"
+              className="mt-10 hidden md:block md:relative md:bottom-4 md:left-32 md:z-0"
             />
           </div>
         </div>
